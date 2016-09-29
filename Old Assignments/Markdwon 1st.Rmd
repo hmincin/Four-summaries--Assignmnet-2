@@ -1,0 +1,28 @@
+---
+title: "Homework #2- "
+author: "Haley Mincin"
+date: "September 21, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## How to graph badly: Notes from John Boyd’s class on Scientific Visualization and Information Architecture
+
+Summary here
+-
+-
+
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

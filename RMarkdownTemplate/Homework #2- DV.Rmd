@@ -1,0 +1,27 @@
+---
+title: 'Homework #2-Haley Mincin'
+author: "Haley Mincin"
+date: "September 28, 2016"
+output: pdf_document
+---
+Effectively Communicating Numbers
+
+Displaying data is not as easy as it may appear, it takes a lot of practice to perfect. Quantitative data is crucial to businesses today. Unfortunately, many graphs are thrown together and miss the opportunity to truly let the data shine. There is an art to matching data with a certain graph design. This article talks about the benefits of graphs in the workspace. Tables work best when the display will be used to look up individual values or the quantitative values must be precise. Graphs work best when the message you wish to communicate resides in the shape of the data. When used in graphs, categorical scales come in three fundamental types: nominal, ordinal, and interval. 
+
+The meaningful relationships in quantitative business data can be classified into seven categories. When quantitative values are expressed as a series of measures taken across equal intervals of time, this relationship is called a time series. When quantitative values are sequenced by size, from large to small or vice versa, this relationship is called a ranking. When quantitative values are displayed to reveal the portion that each value represents to some whole, this is called a part- to-whole relationship. When quantitative values are displayed to feature how one or more sets of values differ from some reference set of values, this is called a deviation relationship. When we show how a set of quantitative values are spread across their entire range, this relationship is called a distribution. When pairs of quantitative values, each measuring something different about an entity (for example a person, department, or product), are displayed to reveal if there is significant relationship between them (for instance, as one goes up the other goes up as well, or as one goes up the other goes down), this is called a correlation. A nominal comparison relationship is when there is no relationship. These 7 relationships are very helpful to visualize when graphed. There is a variety of advice given when using graphs. Remove anything that is not essential to making the graph comprehendible and clutter free. Color can easily cause distractions when used improperly.  
+
+The first scenario talks about comparing multiple people for a job. A radar chart is used, which looks extremely sophisticated. Communication leading to understanding is the goal of graphs and charts. If a chart is complicated, it is hard to be comprehended. In the first scenario, a chart would have been sufficient to read and easy to compare the candidates. The process of selecting and constructing a graph can be approached as a sequential series of decisions, one at a time. 
+
+This process consists of the following six fundamental stages: 
+Determine your message and identify the data necessary to communicate it. Understand what the data means before working with it. 
+Determine if a table, graph, or combination of both is needed to communicate your message. Sometimes both are needed, but understand why.
+The remaining stages apply only if one or more graphs are required. 
+Determine the best means to encode the values. This is where understanding the relationships above, comes into play. 
+Determine where to display each variable. Most often, one graph will be sufficient for presenting the data.
+Determine the best design for the remaining objects. Scale and text comes into play during this step. 
+Determine if particular data should be featured above the rest, and if so, how. Highlighting important data appears at this step. These items can be encoded in dark and bright colors to illustrate the importance.
+
+Overall, this article provided additional insight into what makes a successful graoh.
+
+
+

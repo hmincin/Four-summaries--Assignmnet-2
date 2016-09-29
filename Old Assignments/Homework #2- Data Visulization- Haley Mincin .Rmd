@@ -1,0 +1,24 @@
+---
+title: 'Homework #2- '
+author: "Haley Mincin"
+date: "September 21, 2016"
+output: pdf_document
+---
+
+## How to graph badly: Notes from John Boyd’s class on Scientific Visualization and Information Architecture
+
+Chartjunk is the unnecessary additions to a graph. These aspects not only distract the reader, but also confuse them. Eliminating these aspects will help to produce high quality and practical graphs. Artificial color and hard to read fonts all contribute to chartjunk. Modern computers provide consumers with a variety of options to spruce up graphs. All these options can seem like a good thing, but in reality having simple and clear graphs will prevail.  I graph therefore I think is a common misconception this article points out. It is important to do the thinking and understanding of the data before cranking out a graph. Understanding the data is essential, before doing anything with the data. 
+
+Luckily this article provides some answers on how to enhance graphs. Highlighting the key features of a graph can help create a better visualization. Additionally, triaging the analysis is important. Do not spend time on insignificant data, focus on important points, but few words and perhaps no graphs on the unimportant ones, focus on the ones that you want people to remember. The third suggestion is to combine many closely related graphs into a single multi-panel graph. These three ideas provide some direction when creating a good data visualization. 
+
+A successful graph includes lots of information. High density data graph, is another term for this. It is misleading to produce a graph with minimal data. A graph can only be comprehensible if there is context included in the caption or title without context there is no way to fully understand the graph. Labeling is crucial when it comes to graphs. Too small of type, poor placement, and too few of labels contribute to issues with labels. There is a right medium, providing enough labels for information, and not overloading the graph to the point where the curve is unrecognizable.
+
+
+## The Gospel According to Tufte: Notes from John Boyd’s class on Scientific Visualization and Information Architecture
+
+Good graphics present data as simply as possible. Tufte has five maxims that guide this principle of simplicity and clarity in the graphing process. Showing the data is the first maxim. Writing a topic sentence for each graph is important to understanding the purpose of the data. Providing context for the graphs is important, people need to understand what they are looking at. Emphasizing the data is crucial in society today. People have more work to do, and less time to look at the small details. By enhancing the data using thicker lines, it can help scientist get through the visualization quicker. Erasing. g the non data-ink is the third maxim. Grids are not as widespread as the used to be. They should only be used if you really have to. The second requirement is that the gridlines should be very faint, if used at all. Nothing is worse than a flawed graph. People are better off just to display a table than a sub-par graph. Revision and editing are essential to visualizations. The content does not change, but the clarity does. 
+	
+A good graph is more than a simple addition of its various pieces. It has to have a good and clear flow to it. Making labels as clear as possible on the graph makes for an easy to read graph. Word-labels are better than letter-labels. Color is one of the most powerful tools of visualization. Unfortunately, it is often misused. Color often emphasizes the wrong elements of a data set. Using a full set of bright colors can be a dad mistake. Usually the brightest color is thought to be the most important, which is a mistake. It is also good to be conscious of the clientele when delivering bright graphs. A portion of the population is color blind, so they would have a hard time reading those graphs. 
+
+Overall, these articles provided good information on what to do and what not to do when it comes to graphing. Many examples were provided which made the material much easier to comprehend. 
+
